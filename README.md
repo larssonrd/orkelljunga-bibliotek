@@ -2,7 +2,7 @@
 
 ## Sprintmål:
 
-Sprintmålet för denna sprint är att skapa grunderna till ett biblioteksprogram med ett användarvänligt gränssnitt, med fokus på de administrativa delarna. Målet inkluderar möjligheten för administratörer att skapa nya användarkonton, lägga till och ta bort böcker, och sätta en lånetid per bok för att säkerställa att boken kommer tillbaka. 
+Sprintmålet för denna sprint är att skapa grunden till ett biblioteksprogram med ett användarvänligt gränssnitt, med fokus på de administrativa delarna. Målet inkluderar möjligheten för administratörer att skapa nya användarkonton, lägga till och ta bort böcker, och sätta en lånetid per bok för att säkerställa att boken kommer tillbaka. 
 
 Administratörer ska även kunna se en lista över vilka böcker en användare har lånat för att ha bättre koll. En annan viktig del av sprintmålet är att ha en koppling mellan systemet och nuvarande skanners för att kunna skanna böcker och kort. 
 Genom att uppnå detta sprintmål kommer biblioteket att ha en grundläggande funktionalitet på plats och användare kommer att kunna utföra de viktigaste uppgifterna i programmet.
