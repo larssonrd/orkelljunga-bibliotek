@@ -1,5 +1,7 @@
 # Robo Rollers - Örkelljunga-bibliotek
 
+Länk till Github Projects: https://github.com/users/larssonrd/projects/2/
+
 ## Sprintmål:
 
 Sprintmålet för denna sprint är att skapa grunden till ett biblioteksprogram med ett användarvänligt gränssnitt. Denna sprint fokuserar främst på de administrativa delarna. Målet inkluderar möjligheten för administratörer att skapa nya användarkonton, lägga till och ta bort böcker, och sätta en lånetid per bok för att säkerställa att boken kommer tillbaka. 
